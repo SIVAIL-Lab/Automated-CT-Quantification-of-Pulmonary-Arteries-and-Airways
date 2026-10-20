@@ -1,0 +1,18 @@
+# Scientific computation and numeric input/output
+numpy==2.5.1
+scipy==1.18.0
+nibabel==5.4.2
+scikit-image==0.26.0
+tifffile==2026.9.20
+SimpleITK==2.5.6
+statsmodels==0.15.0
+threadpoolctl==3.7.0
+
+# Main-workflow statistical plots
+matplotlib==3.11.1
+Pillow==12.3.0
+
+# Inference; install the appropriate PyTorch build for your CUDA runtime first.
+torch==2.12.1
+TotalSegmentator==2.18.0
+nnunetv2==2.8.1
